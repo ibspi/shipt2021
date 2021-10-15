@@ -4,6 +4,7 @@ var currentState = null;
 
 function changed(state){
     currentState = state;
+    console.log(state.currentState);
 }
 
 function getLastMessage(){
