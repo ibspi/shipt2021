@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ibspi/shipt2021#readme",
   "dependencies": {
     "mocha": "^9.1.2",
+    "onoff": "^6.0.3",
     "udev": "^1.0.0"
   }
 }

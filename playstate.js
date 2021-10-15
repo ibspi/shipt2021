@@ -92,8 +92,8 @@ function addGoalP2(){
 
 function testForTransition(){
     if(goals1 == maxGoals || goals2 == maxGoals){
-        state = states.WAITFORPLAYER1;
-        notity();
+        init(maxGoals);
+        
     }
 }
 
